@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/divlabsWeb/static/css/main.a45e3636.chunk.css",
+    "main.js": "/divlabsWeb/static/js/main.8b5d2fed.chunk.js",
+    "main.js.map": "/divlabsWeb/static/js/main.8b5d2fed.chunk.js.map",
+    "runtime-main.js": "/divlabsWeb/static/js/runtime-main.8f94de9d.js",
+    "runtime-main.js.map": "/divlabsWeb/static/js/runtime-main.8f94de9d.js.map",
+    "static/js/2.e8b00746.chunk.js": "/divlabsWeb/static/js/2.e8b00746.chunk.js",
+    "static/js/2.e8b00746.chunk.js.map": "/divlabsWeb/static/js/2.e8b00746.chunk.js.map",
+    "index.html": "/divlabsWeb/index.html",
+    "precache-manifest.25ea1b7828217023bed1928723f67e85.js": "/divlabsWeb/precache-manifest.25ea1b7828217023bed1928723f67e85.js",
+    "service-worker.js": "/divlabsWeb/service-worker.js",
+    "static/css/main.a45e3636.chunk.css.map": "/divlabsWeb/static/css/main.a45e3636.chunk.css.map",
+    "static/js/2.e8b00746.chunk.js.LICENSE.txt": "/divlabsWeb/static/js/2.e8b00746.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/divlabsWeb/static/media/logo.5a12f9ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f94de9d.js",
+    "static/js/2.e8b00746.chunk.js",
+    "static/css/main.a45e3636.chunk.css",
+    "static/js/main.8b5d2fed.chunk.js"
+  ]
+}

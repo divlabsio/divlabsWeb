@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb340;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 200px;
+        fill: #fff;
+        font-family: Avenir;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <path id="I" class="cls-1" d="M892.973,549.181v66.561h25.255V549.181H892.973Z"/>
+  <text id="divLabs" class="cls-2" x="117.293" y="634.984">divLabs</text>
+</svg>
